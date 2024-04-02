@@ -10,7 +10,6 @@ class Banco {
 
 
 
-
 public String getNome() {
   return nome;
 }
